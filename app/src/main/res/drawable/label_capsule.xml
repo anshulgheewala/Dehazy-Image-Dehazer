@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color (Semi-transparent) -->
+    <solid android:color="#99000000" /> <!-- Semi-transparent black -->
+
+    <!-- Rounded corners for capsule-like appearance -->
+    <corners android:radius="100dp" />  <!-- The radius creates the capsule effect -->
+
+    <!-- Optional padding inside the label -->
+    <padding android:left="10dp" android:right="10dp" android:top="5dp" android:bottom="5dp"/>
+</shape>
